@@ -3,5 +3,5 @@ h2 {
 }
 
 img {
-  width: 60 vw;
+  max-width: 60vw;
 }
